@@ -23,3 +23,20 @@ Four discrete actions are available, correspoinding to:
 - **`+1`** - collecting yellow banana
 - **`-1`** - collecting blue banana
 
+
+### Getting Started
+
+1. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
+    - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
+    - Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
+    - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
+    - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
+
+ 2. Setup your Python environment. 
+    - Python=3.6
+    - torch=0.4.1
+    - numpy=1.14.5
+    - matplotlib=2.2.3
+
+ 3. Run the Report.ipynb and follow instructions.
+ 
